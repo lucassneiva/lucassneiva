@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, sou Lucas Neiva </h1>
 <h3 align = "center"> Um apaixonado desenvolvedor de front-end do Brasil </h3>
 
-- 🌱 Atualmente estou aprendendo **Full-Stack Desenvolvimento Web**
+- 🌱 Atualmente estou aprendendo **Desenvolvimento Web Full-Stack**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/lucassneiva](https://github.com/lucassneiva)
 
