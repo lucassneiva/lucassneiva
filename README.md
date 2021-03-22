@@ -9,7 +9,7 @@
 
 - 📫 Como entrar em contato comigo **lucassneiva.code@gmail.com**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/lucassneiva/] ( https://www.linkedin.com/in/lucassneiva/)
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/lucassneiva/](https://www.linkedin.com/in/lucassneiva/)
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
