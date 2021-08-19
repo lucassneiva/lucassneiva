@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Lucas Neiva </h1>
-<h3 align = "center"> Um apaixonado desenvolvedor de front-end do Brasil </h3>
+<h3 align = "center"> Um apaixonado desenvolvedor Full-Stack do Brasil </h3>
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Web Full-Stack**
 
