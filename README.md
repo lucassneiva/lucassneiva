@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/lucassneiva](https://github.com/lucassneiva)
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, React-Native, Jest, RTL, Nodejs, Java**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, React-Native, Jest, RTL, Nodejs e Java**
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/lucassneiva/](https://www.linkedin.com/in/lucassneiva/)
 
