@@ -1,11 +1,11 @@
 <h1 align = "center"> Olá 👋, sou Lucas Neiva </h1>
 <h3 align = "center"> Um apaixonado desenvolvedor Full-Stack do Brasil </h3>
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Web Full-Stack**
+- 🌱 **Desenvolvimento Web Full-Stack** em constante evolução.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/lucassneiva](https://github.com/lucassneiva)
 
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, Nodejs, React, Jest e RTL.**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, React, React-Native, Jest, RTL, Nodejs, Java**
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/lucassneiva/](https://www.linkedin.com/in/lucassneiva/)
 
